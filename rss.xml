@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JohnnyAdamsSanga]]></title>
         <description><![CDATA[JohnnyAdamsSanga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnnyadamssanga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 07:03:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 07:03:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnnyadamssanga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25cf11e0-635a-46c3-b15f-02c19b91c94a.png">]]></description>
+            <link>https://thegrid.ai/johnnyadamssanga/06596493-dd30-4870-b9fc-d84d7c0a26e8/index.html</link>
+            <guid isPermaLink="false">06596493-dd30-4870-b9fc-d84d7c0a26e8</guid>
+            <pubDate>Tue, 23 Feb 2016 07:03:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f810520-922e-49e1-8c5d-36298aee2078.png">]]></description>
-            <link>undefinedd5325a8f-cb5c-4297-b42b-529d40a780c2/index.html</link>
+            <link>https://thegrid.ai/johnnyadamssanga/d5325a8f-cb5c-4297-b42b-529d40a780c2/index.html</link>
             <guid isPermaLink="false">d5325a8f-cb5c-4297-b42b-529d40a780c2</guid>
             <pubDate>Tue, 23 Feb 2016 07:02:37 GMT</pubDate>
         </item>
